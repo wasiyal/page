@@ -116,10 +116,14 @@ H1.cjk { font-family: "verdana" }
 				<H1 CLASS="western"><u>Activities </u></H1>
 				<H2 CLASS="western">Research: </H2>
 				<P STYLE="margin-bottom: 0in; line-height: 150%" ALIGN="justify"> 
+				<HR>
+				<H1 CLASS="western"><u>Activities </u></H1>
+				<H2 CLASS="western">Research: </H2>
+				<P STYLE="margin-bottom: 0in; line-height: 150%" ALIGN="justify"> 
 				Currently, I am associated with Department of Mathematics of Mathematics and Statistics, QUEST Nawabshah Pakistan. 
 				Research interests are Discretization techniques, advanced iterative solvers for linear systems, preconditioners and projection preconditioners. Two PhDs are working under my supervision and I am supervising 3 MS projects. 
 				I have been associated with Numerical Analysis group in <A HREF="http://www.ewi.tudelft.nl/en/the-faculty/departments/applied-mathematics/">Delft Institute of Applied Mathematics (DIAM)</A> from March 2009 to November 2014. Where I on developing robust and fast solvers for the Helmholtz equation, which involves the CSLP preconditioners and a variety of &quot;deflation preconditioners&quot;. I have worked under supervision of associate professor<A HREF="http://ta.twi.tudelft.nl/nw/users/domenico/">
-				dr.ir. Domenico Lahaye </A>, and <A HREF="http://ta.twi.tudelft.nl/users/vuik//"> Prof. dr. ir C. Vuik.<A> 
+				dr.ir. Domenico Lahaye </A>, and <A HREF="http://ta.twi.tudelft.nl/users/vuik//"> Prof. dr. ir C. Vuik.<A>
 				
 <H2 CLASS="western">Teaching:</H2>
 For the list of previous and current courses, <A HREF="Courses/Teaching.html">Click here</A>
