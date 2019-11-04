@@ -6,8 +6,8 @@
 <body bgcolor="orange">
 <img
 src="https://media.licdn.com/dms/image/C5603AQF_EWs6yog3gA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=35PLYHJU0OdHrOlNDbL09SJrLnxZaiCHzbx7tsH9JhY"
-high = "100%"
-width = "100%"
+high = "20%"
+width = "20%"
 />
 <h1 align="center"><i>About me</h1>
 
