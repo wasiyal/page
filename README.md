@@ -4,17 +4,23 @@
 <HEAD>
 
 
-<link rel="icon" href="book.ico" type="image/x-icon">
+<link rel="icon" href="https://thumbs.gfycat.com/UnacceptableAmusedBernesemountaindog-max-1mb.gif" type="image/x-icon">
+
+
+
+
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE>Main page of Mr. Wajid Ahmed Siyal, QUEST Nawabshah Pakistan</TITLE>
+	<TITLE>Main page of Dr. Abdul Hanan Sheikh, QUEST Nawabshah Pakistan</TITLE>
 	<META NAME="GENERATOR" CONTENT="LibreOffice 3.5  (Linux)">
 	<META NAME="CREATED" CONTENT="0;0">
-	<META NAME="CHANGEDBY" CONTENT="Wajid Ahmed Siyal">
+	<META NAME="CHANGEDBY" CONTENT="Abdul Hanan Sheikh">
 	<META NAME="CHANGED" CONTENT="20140219;19133700">
-	<META NAME="CHANGEDBY" CONTENT="Wajid Ahmed Siyal">
+	<META NAME="CHANGEDBY" CONTENT="Abdul Hanan Sheikh">
 	<STYLE TYPE="text/css">
 	body{ font-size:12px;} 
-	img{ vertical-align:middle;}  <-- H1.cjk { font-family: "verdana" }
+	img{ vertical-align:middle;} 
+	<!--
+		H1.cjk { font-family: "verdana" }
 		H1.ctl { font-family: "verdana" }
 		H3.cjk { font-family: "Droid Sans" }
 		H3.ctl { font-family: "FreeSans" }
@@ -22,8 +28,8 @@
 		A:visited { color: #FF0000}
 	-->
 	</STYLE>
-</HEAD> 
-		<!-- #C7EDCC-->
+</HEAD>
+<!-- #C7EDCC -->
 <BODY LANG="en-US" LINK="#0000ff" VLINK="#FF0000" BGCOLOR="#FFFFDE" DIR="LTR">
 <!--#E6E6FA-->
 <CENTER>
@@ -33,20 +39,23 @@
 			<TD STYLE="border: none; padding: 0in">
 				<P STYLE="border-top: none; border-bottom: 1px double #808080; border-left: none; border-right: none; padding: 0in">
 				</P>
-				<H1 CLASS="western">Mr. Wajid Ahmed Siyal </H1>
+				<H1 CLASS="western">Dr. Abdul Hanan Sheikh </H1>
+		
 				<TABLE WIDTH=888 CELLPADDING=2 CELLSPACING=0>
 					<COL WIDTH=376>
-					<COL WIDTH=1
+					<COL WIDTH=1>
+				
 					<COL WIDTH=1>
 					<COL WIDTH=152>
-					<TR>	<TD WIDTH=726 VALIGN=TOP STYLE="border: none; padding: 0in; line-height: 150%">
-							<P>Mathematics Lecturer, <BR> Department of Mathematics,<BR> IBA Community College Naushahro Feroze Sindh Pakistan.</TD>
+					<TR>
+						<TD WIDTH=726 VALIGN=TOP STYLE="border: none; padding: 0in; line-height: 150%">
+							<P>Associate Professor, <BR> Department of Mathematics and Statistics, <BR>Faculty of Science,<BR>Quaid-e-Awam University of Engineering, Science and Technology, Nawabshah Pakistan.		</TD>
 						
 						<TD WIDTH=1 STYLE="border: none; padding: 0in"></TD>
 						<TD WIDTH=1 VALIGN=TOP STYLE="border: none; padding: 0in"></TD>
 						<TD WIDTH=1 STYLE="border: none; padding: 0in"></TD>
 						<TD WIDTH=152 STYLE="border: none; padding: 0in">
-							<IMG SRC="https://media.licdn.com/dms/image/C5603AQF_EWs6yog3gA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=35PLYHJU0OdHrOlNDbL09SJrLnxZaiCHzbx7tsH9JhY" NAME="graphics1" ALIGN=RIGHT WIDTH=154 HEIGHT=180 BORDER=1></TD>
+							<IMG SRC="dp1.jpeg" NAME="graphics1" ALIGN=RIGHT WIDTH=154 HEIGHT=180 BORDER=1></TD>
 					</TR>
 				</TABLE>
 				<HR>
@@ -63,8 +72,8 @@
 						<TD WIDTH=616 VALIGN=TOP STYLE="border: none; padding: 0in; line-height: 150%">
 							<LI><P STYLE="margin-bottom: 0in; line-height: 150%">Faculty Chambers, Depaprtment of Mathematics & Statistics, Nawabshah 67480, Sindh - Pakistan <br />
 							Tel: Off: +92 -244-9370381-5 Ext (3256)    <br />
-							Mobile +92 313-3389442 <br />
-							E-Mail: wajidquest10 AT gmail.com
+							Mobile +92 333-7580515 <br />
+							E-Mail: hanangul12 AT yahoo.co.uk
 							</P>
 							<LI><P STYLE="margin-bottom: 0in; line-height: 150%">LinkedIn Profile:    <A HREF="http://nl.linkedin.com/in/ahsheikh"><IMG SRC="linked.jpg" NAME="graphics1" ALIGN=CENTER WIDTH=32 HEIGHT=28 BORDER=0></A></P>
 					<LI><P STYLE="margin-bottom: 0in; line-height: 150%">ResearchGate Profile:    <A HREF="https://www.researchgate.net/profile/A_H_Sheikh"><IMG SRC="ResearchGate-logo_small.jpg" NAME="graphics2" ALIGN=CENTER WIDTH=32 HEIGHT=28 BORDER=0></A></P>
