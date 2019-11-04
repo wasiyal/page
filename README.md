@@ -15,7 +15,7 @@
 	<STYLE TYPE="text/css">
 	body{ font-size:12px;} 
 	img{ vertical-align:middle;} 
-    <!--
+	<!--
 
 H1.cjk { font-family: "verdana" }
 		H1.ctl { font-family: "verdana" }
@@ -121,7 +121,7 @@ H1.cjk { font-family: "verdana" }
 				I have been associated with Numerical Analysis group in <A HREF="http://www.ewi.tudelft.nl/en/the-faculty/departments/applied-mathematics/">Delft Institute of Applied Mathematics (DIAM)</A> from March 2009 to November 2014. Where I on developing robust and fast solvers for the Helmholtz equation, which involves the CSLP preconditioners and a variety of &quot;deflation preconditioners&quot;. I have worked under supervision of associate professor<A HREF="http://ta.twi.tudelft.nl/nw/users/domenico/">
 				dr.ir. Domenico Lahaye </A>, and <A HREF="http://ta.twi.tudelft.nl/users/vuik//"> Prof. dr. ir C. Vuik.<A> 
 				
-				<H2 CLASS="western">Teaching:</H2>
+<H2 CLASS="western">Teaching:</H2>
 For the list of previous and current courses, <A HREF="Courses/Teaching.html">Click here</A>
 				<HR>
 				<H1 CLASS="western">Publications:</H1>
