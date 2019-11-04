@@ -4,7 +4,7 @@
 <HEAD>
 
 
-<link rel="icon" href="https://thumbs.gfycat.com/UnacceptableAmusedBernesemountaindog-max-1mb.gif" type="image/x-icon">
+<link rel="icon" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fdifferential%2Bequations&psig=AOvVaw2f5bGqwG5B3HtdSy0Awwl9&ust=1572980311107000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCS9q3g0-UCFQAAAAAdAAAAABAe">
 
 
 
