@@ -5,7 +5,7 @@
     </head>    
 <body bgcolor="orange">
 <img
-src="https://www.dropbox.com/s/suainq8w3gl82cg/7acd14c3-c115-4ce6-81da-953c73a6a2e3%20%282%29.jpg?dl=0"
+src="https://media.licdn.com/dms/image/C5603AQF_EWs6yog3gA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=35PLYHJU0OdHrOlNDbL09SJrLnxZaiCHzbx7tsH9JhY"
 high = "100%"
 width = "100%"
 />
