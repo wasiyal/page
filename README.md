@@ -5,10 +5,6 @@
 
 
 <link rel="icon" href="book.ico" type="image/x-icon">
-
-
-
-
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
 	<TITLE>Main page of Mr. Wajid Ahmed Siyal, QUEST Nawabshah Pakistan</TITLE>
 	<META NAME="GENERATOR" CONTENT="LibreOffice 3.5  (Linux)">
@@ -18,9 +14,7 @@
 	<META NAME="CHANGEDBY" CONTENT="Wajid Ahmed Siyal">
 	<STYLE TYPE="text/css">
 	body{ font-size:12px;} 
-	img{ vertical-align:middle;} 
-	<!--
-		H1.cjk { font-family: "verdana" }
+	img{ vertical-align:middle;}  <-- H1.cjk { font-family: "verdana" }
 		H1.ctl { font-family: "verdana" }
 		H3.cjk { font-family: "Droid Sans" }
 		H3.ctl { font-family: "FreeSans" }
@@ -28,8 +22,8 @@
 		A:visited { color: #FF0000}
 	-->
 	</STYLE>
-</HEAD>
-<!-- #C7EDCC -->
+</HEAD> 
+		<!-- #C7EDCC-->
 <BODY LANG="en-US" LINK="#0000ff" VLINK="#FF0000" BGCOLOR="#FFFFDE" DIR="LTR">
 <!--#E6E6FA-->
 <CENTER>
@@ -40,16 +34,13 @@
 				<P STYLE="border-top: none; border-bottom: 1px double #808080; border-left: none; border-right: none; padding: 0in">
 				</P>
 				<H1 CLASS="western">Mr. Wajid Ahmed Siyal </H1>
-		
 				<TABLE WIDTH=888 CELLPADDING=2 CELLSPACING=0>
 					<COL WIDTH=376>
-					<COL WIDTH=1>
-				
+					<COL WIDTH=1
 					<COL WIDTH=1>
 					<COL WIDTH=152>
-					<TR>
-						<TD WIDTH=726 VALIGN=TOP STYLE="border: none; padding: 0in; line-height: 150%">
-							<P>Mathematics Lecturer, <BR> Department of Mathematics,<BR> IBA Community College Naushahro Feroze Sindh Pakistan.		</TD>
+					<TR>	<TD WIDTH=726 VALIGN=TOP STYLE="border: none; padding: 0in; line-height: 150%">
+							<P>Mathematics Lecturer, <BR> Department of Mathematics,<BR> IBA Community College Naushahro Feroze Sindh Pakistan.</TD>
 						
 						<TD WIDTH=1 STYLE="border: none; padding: 0in"></TD>
 						<TD WIDTH=1 VALIGN=TOP STYLE="border: none; padding: 0in"></TD>
