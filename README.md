@@ -5,7 +5,7 @@
     </head>    
 <body bgcolor="orange">
 <img
-src="http://kellerelementary.weebly.com/uploads/2/5/7/9/25792133/coding.jpg"
+src="https://www.dropbox.com/s/suainq8w3gl82cg/7acd14c3-c115-4ce6-81da-953c73a6a2e3%20%282%29.jpg?dl=0"
 high = "100%"
 width = "100%"
 />
